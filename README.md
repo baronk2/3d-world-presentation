@@ -14,7 +14,7 @@ I used this 3D world format with a Zoom Screenshare to present to the class.
 ## Demo / Develop
 There are a few different ways to run this Scratch code. It can be done offline or online. If you have a stable internet connection, the easiest way is to use Scratch's online editor.
 
-1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) this repository and download the `.sb3` file locally [`presentation/scratch/baronk2-product-evaluations-presentation-in-fps-world.sb3`](presentation/scratch/baronk2-product-evaluations-presentation-in-fps-world.sb3).
+1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) this repository or download the individual `.sb3` file locally by following this link ([`presentation/scratch/baronk2-product-evaluations-presentation-in-fps-world.sb3`](presentation/scratch/baronk2-product-evaluations-presentation-in-fps-world.sb3)) and pressing "Download."
 
 2. Open the `.sb3` file.
 
