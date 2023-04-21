@@ -11,15 +11,15 @@ I used this 3D world format with a Zoom Screenshare to present to the class.
 
 ## Examples
 
-![scratchworld-00](images/scratchworld-00.png)
+<img src="images/scratchworld-00.png" alt="scratchworld-00" width=700>
 
-![scratchworld-01](images/scratchworld-01.png)
+<img src="images/scratchworld-01.png" alt="scratchworld-01" width=700>
 
-![scratchworld-02](images/scratchworld-02.png)
+<img src="images/scratchworld-02.png" alt="scratchworld-02" width=700>
 
-![scratchworld-03](images/scratchworld-03.png)
+<img src="images/scratchworld-03.png" alt="scratchworld-03" width=700>
 
-![scratchworld-04](images/scratchworld-04.png)
+<img src="images/scratchworld-04.png" alt="scratchworld-04" width=700>
 
 ## Demo / Develop
 There are a few different ways to run this Scratch code. It can be done offline or online. If you have a stable internet connection, the easiest way is to use Scratch's online editor.
