@@ -3,6 +3,10 @@
 [![Scratch favicon](https://github.com/baronk2/scratch-elements/blob/main/img/favicon/scratch-favicon--16x16.ico)](https://scratch.mit.edu/)
 [Scratch](https://scratch.mit.edu/) - Imagine, Program, Share
 
+## Demo Video
+
+[Scratch VR Hand Tracking Demo](https://youtu.be/VGpcV9LD-vs)
+
 
 ## Description
 This makes a semi-3D world (with 2D sprites) that allows you to move around and watch an interactive presentation from a University of Washington Informatics course (Autumn 2022: INFO 498 - Special Topics in Informatics: Technology and Childhood - Theory, Research, & Practice).
